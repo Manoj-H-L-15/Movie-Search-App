@@ -15,7 +15,7 @@ Built using modular and reusable React components.
 Optimized for different screen sizes (desktop & mobile).
 🖥️ Demo
 
-👉 Live Demo: https://stellar-centaur-2ab0fe.netlify.app/
+👉 Live Demo: https://sage-faloodeh-376272.netlify.app/
 
 🛠️ Tech Stack
 Frontend: React.js
